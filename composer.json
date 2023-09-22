@@ -1,0 +1,15 @@
+{
+    "name": "crystal/cat-bowl",
+    "autoload": {
+        "psr-4": {
+            "Crystal\\CatBowl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pavel Bihel",
+            "email": "crystal@crystalapps.by"
+        }
+    ],
+    "require": {}
+}
